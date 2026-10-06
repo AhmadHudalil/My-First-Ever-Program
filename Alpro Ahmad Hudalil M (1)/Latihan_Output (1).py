@@ -1,0 +1,7 @@
+print("DATA MAHASISWA")
+print("------------------------------")
+print("NIM     : 25.50.026")
+print("Nama    : Ahmad Hudalil Muttaqin")
+print("Jurusan : S1-Sistem Informasi")
+print("Umur    : 18 tahun")
+print("------------------------------")
